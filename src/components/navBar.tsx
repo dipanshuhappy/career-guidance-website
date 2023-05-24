@@ -35,7 +35,7 @@ function HeartSvg() {
 export default function NavBar() {
     return (
         <div className="w-2/3  mx-auto ">
-            <div className="navbar bg-base-100">
+            <div className="navbar ">
                 <div className="flex-1">
                     <div>
                         <a className="btn btn-ghost tracking-[.2em] normal-case text-xl font-extrabold">Link
