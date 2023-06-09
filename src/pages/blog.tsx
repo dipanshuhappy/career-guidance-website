@@ -9,6 +9,7 @@ const SubscribeCard = () => {
         <div className='w-full my-8 rounded-lg py-7 px-5 bg-slate-200'>
             <p className='text-xl my-2 text-black font-semibold text-center'>Subscribe</p>
             <p className=' text-center my-6 text-sm'>Get the latest news and updates from us straight into your inbox.</p>
+          
             <input type="text" placeholder="Email Address" className="my-6 input focus:bg-transparent focus:text-black placeholder:text-black  input-ghost placeholder:text-center text-black t w-full max-w-xs" />
             <button className="btn btn-block bg-black text-white">Subscribe</button>
         </div>
